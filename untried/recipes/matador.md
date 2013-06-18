@@ -22,4 +22,4 @@ Shake all ingredients until you can't hold on to the cold tin any longer. Strain
 Notes
 -----------
 
-* Original source: (The Overserved Society)[http://www.birchbox.com/men/guide/post/the-overserved-society-presents-the-matador]
+* Original source: [The Overserved Society](http://www.birchbox.com/men/guide/post/the-overserved-society-presents-the-matador)
