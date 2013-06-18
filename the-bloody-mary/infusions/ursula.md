@@ -1,4 +1,4 @@
-Ursula Cool
+Ursula
 ===========
 
 This cucumber vodka infusion is for those wanting a nice, crisp base for their bloodys.

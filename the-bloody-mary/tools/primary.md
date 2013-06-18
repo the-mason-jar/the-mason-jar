@@ -1,7 +1,7 @@
 Tools
 ===========
 
-A product is the refelction of the tools used in its creation
+A product is the refelction of the tools used in its creation.
 
 
 Infusers

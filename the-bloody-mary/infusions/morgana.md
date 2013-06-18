@@ -1,4 +1,4 @@
-Morgana Spice
+Morgana
 ===========
 
 An herb and spice infused vodka for a less spicy, classy twist on the mary.

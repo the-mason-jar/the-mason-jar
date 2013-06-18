@@ -4,7 +4,7 @@ The Original Mary Danger
 For those who like them traditional and spicy.
 
 
-Ingredients 
+Ingredients
 -----------
 
 

@@ -1,4 +1,4 @@
-Tabitha Sweet
+Tabitha
 ===========
 
 A slightly sweet watermelon & rosemary infusion for use in watermelon-based marys.
