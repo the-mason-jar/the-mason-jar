@@ -7,11 +7,10 @@ A variation on the Margarita.
 Ingredients
 -----------
 
-2 oz Tequila
-1 oz Triple sec
-2 oz Pineapple juice (more power to you if it's fresh-pressed)
-1 oz Fresh lime juice
-
+* 2 oz Tequila
+* 1 oz Triple sec
+* 2 oz Pineapple juice (more power to you if it's fresh-pressed)
+* 1 oz Fresh lime juice
 
 
 Technique
