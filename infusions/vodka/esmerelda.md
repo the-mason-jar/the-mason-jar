@@ -7,9 +7,9 @@ A hot & spicy pepper vodka infusion for those who enjoy a hot and firy bloody.
 Ingredients
 -----------
 
-* 1 serrano chile, stemmed, seeded, and quartered lengthwise
-* 1 jaiapeño chlie, stemmed, seeded, and quartered lengthwise
-* 1 red habanero chile, stemmed, seeded, and quartered lengthwise
+* 1 serrano pepper, stemmed, seeded, and quartered lengthwise
+* 1 jaiapeño pepper, stemmed, seeded, and quartered lengthwise
+* 1 red habanero pepper, stemmed, seeded, and quartered lengthwise
 * One 750 ml bottle of Tito's vodka.
 
 
