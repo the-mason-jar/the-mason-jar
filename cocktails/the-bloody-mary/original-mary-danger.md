@@ -28,7 +28,7 @@ The Original Mary Danger
 -----------
 
 * Edge a large class with [salt]().
-* Pour in a shot or two of [Esmerelda pepper vodka]() if you want heat, [Morgana spice and herb vodka]() if you want classic spice, or [Ursula cucumber vodka]() if you want something more crisp. Strain if needed.
+* Pour in a shot or two of [Morgana spice and herb vodka](). Strain if needed.
 * Pour in the mix, fill about 2/3rds of the glass.
 * Add ice. Be sure and leave some room in the glass.
 * If you have it, pour a little Guinness on top.
@@ -48,3 +48,4 @@ Notes
 
 * Go easy on both celery and pepper as they can overwhelm the taste a bit.
 * For a vegan version, use soy sauce or mix a bit of Bragg's Amino Acid with tamarind paste instead of Worchestershire.
+* Substitute [Esmerelda pepper vodka]() if you want heat, or [Ursula cucumber vodka]() if you want something more crisp.
