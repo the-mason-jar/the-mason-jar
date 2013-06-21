@@ -12,7 +12,7 @@ Mix Ingredients
 * Pinch of cumin seeds
 * Pinch of kosher salt
 * 2 tbsp fresh, chopped, cilantro
-* 2 oz Thai ginger
+* 2 oz galangal (Thai ginger)
 * 4 oz finely chopped horseradish
 * 2 oz Worchestershire sauce
 * 6 oz freshly squeezed lime juice
