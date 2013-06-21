@@ -33,14 +33,14 @@ The Original Mary Danger
 * Add ice. Be sure and leave some room in the glass.
 * If you have it, pour a little Guinness on top.
 * Add garnishes. Here is where you get creative.
-    ** Pickled beans
-    ** Cucumber rolled in a bit of [salt]().
-    ** Pickled asparagus
-    ** Celery
-    ** Skewer of cocktail onions and/or olives.
-    ** Fresh grated tumiric
-    ** Sprinkle of smoked peprika
-    ** Some ground pepper.
+   ** Pickled beans
+   ** Cucumber rolled in a bit of [salt]().
+   ** Pickled asparagus
+   ** Celery
+   ** Skewer of cocktail onions and/or olives.
+   ** Fresh grated tumiric
+   ** Sprinkle of smoked peprika
+   ** Some ground pepper.
 
 
 Notes
