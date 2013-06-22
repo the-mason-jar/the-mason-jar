@@ -47,5 +47,5 @@ Notes
 -----------
 
 * Go easy on both celery and pepper as they can overwhelm the taste a bit.
-* For a vegan version, use soy sauce or mix a bit of Bragg's Amino Acid with tamarind paste instead of Worchestershire.
+* For a vegan version, use tamari, soy or a bit of Bragg's liquid amino mixed with tamarind paste instead of Worcestershire.
 * Substitute [Esmerelda pepper vodka]() if you want heat, or [Ursula cucumber vodka]() if you want something more crisp.
