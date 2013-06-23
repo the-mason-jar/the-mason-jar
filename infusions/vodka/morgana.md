@@ -7,7 +7,7 @@ A spicy vodka infusion created to cater to those who enjoy the best kind of bloo
 Ingredients
 -----------
 
-* 2 whole ancho chilis
+* 2 whole ancho chilis (aka poblano peppers)
 * A bit fresh cilantro
 * 2 stalks lemon grass
 * 1-2 tsp dried orange peel
