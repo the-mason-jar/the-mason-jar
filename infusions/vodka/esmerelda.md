@@ -1,7 +1,7 @@
 Esmerelda
 ===========
 
-A hot & spicy pepper vodka infusion for those who enjoy a hot and firy bloody.
+A hot & spicy pepper vodka infusion for those who enjoy a hot and fiery bloody.
 
 
 Ingredients
