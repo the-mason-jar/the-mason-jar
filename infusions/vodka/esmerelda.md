@@ -16,7 +16,7 @@ Ingredients
 Preparation
 -----------
 
-* Carefully place chilies into an infuser or large glass jar, pour in vodka.
+* Place chilies into an infuser or large glass jar, pour in vodka.
 * Let steep for overnight.
 * Strain the infused vodka into a new, clean bottle.
 * Cap tightly, and refrigerate (or put in the freezer) until ready to serve.
@@ -25,6 +25,7 @@ Preparation
 Notes
 -----------
 
+* Be careful with the peppers. Wash your hands right after handling them, or use gloves. Whatever you do, don't touch your face with pepper still on you!
 * Taste often.
 * You can add one hole pepper as well. Make the infusion look a bit more bad-ass.
 * The longer you leave it, the hotter it'll get. If you want something a bit milder, pull out the chilis.
