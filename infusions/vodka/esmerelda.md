@@ -26,6 +26,7 @@ Notes
 -----------
 
 * Taste often.
+* You can add one hole pepper as well. Make the infusion look a bit more bad-ass.
 * The longer you leave it, the hotter it'll get. If you want something a bit milder, pull out the chilis.
 * Higher proof vodka will infuse faster. Keep that in mind.
 * Don't infuse for too long, it'll get a little funky or bitter.
