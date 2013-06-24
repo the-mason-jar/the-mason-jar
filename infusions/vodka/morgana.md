@@ -25,7 +25,7 @@ Preparation
 -----------
 
 * Carefully place items into an infuser or large glass jar, pour in vodka.
-* Let steep for overnight.
+* Let steep overnight.
 * Strain the infused vodka into a new, clean bottle.
 * Cap tightly, and refrigerate (or put in the freezer) until ready to serve.
 
