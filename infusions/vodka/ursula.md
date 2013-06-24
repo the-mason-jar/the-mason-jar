@@ -21,6 +21,6 @@ Preparation
 Notes
 -----------
 
-* Add 1 argiteniant cuccumber, sliced lenth-wise into strips, for aesthetics.
+* Add 1 Argentinian cucumber, sliced lenth-wise into strips, for aesthetics.
 * Make sure to taste often.
 * Be sure and strain the vodka well. A coffee fitler works well for this. You don't want any particles breaking down over time in your infusion.
