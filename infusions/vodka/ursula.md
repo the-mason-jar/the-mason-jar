@@ -13,7 +13,7 @@ Preparation
 -----------
 
 * Put the cucumber into an infuser or large glass jar, pour in vodka.
-* Let steep for 3-4 days.
+* Seal and store in a cool, dark place for 3-4 days.
 * Strain the infused vodka into a new, clean bottle.
 * Cap tightly, and refrigerate (or put in the freezer) until ready to serve.
 
@@ -22,5 +22,6 @@ Notes
 -----------
 
 * Add 1 Argentinian cucumber, sliced lenth-wise into strips, for aesthetics.
+* Try and make sure all the cucumber is covered. If it isn't it'll dry out and/or wilt.
 * Make sure to taste often.
 * Be sure and strain the vodka well. A coffee fitler works well for this. You don't want any particles breaking down over time in your infusion.
