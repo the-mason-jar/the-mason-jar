@@ -38,6 +38,3 @@ Notes
 
 * Go easy on both celery and pepper as they can overwhelm the taste a bit.
 * For a vegan version, use soy sauce or mix a bit of Bragg's Amino Acid with tamarind paste instead of Worchestershire.
-* 
-
-Added by @keithrobinson
