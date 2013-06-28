@@ -23,7 +23,7 @@ Mix Preparation
 * Season with pepper and celery salt.
 * Stir or shake well and prepare to serve.
 
-The Original Mary Danger
+The Mary Sweet
 -----------
 
 * Edge a large class with [sugar]().
@@ -36,5 +36,6 @@ The Original Mary Danger
 Notes
 -----------
 
+* For a boozy variation, use the left over watermelon from infusing [watermelon vodka]().
 * Go easy on both celery and pepper as they can overwhelm the taste a bit.
 * For a vegan version, use soy sauce or mix a bit of Bragg's Amino Acid with tamarind paste instead of Worchestershire.
