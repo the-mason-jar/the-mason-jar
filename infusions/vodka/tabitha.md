@@ -6,7 +6,7 @@ A slightly sweet watermelon & rosemary infusion.
 
 Ingredients
 -----------
-* 3 cups cubed watermelon
+* 3-6 cups cubed watermelon
 * 2 springs fresh rosemary
 * One 750 ml bottle of Tito's vodka.
 
