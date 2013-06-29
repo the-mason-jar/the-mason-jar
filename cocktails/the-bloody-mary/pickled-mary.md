@@ -6,10 +6,12 @@ The Pickled Mary
 Mix Ingredients
 -----------
 
+
+* Freshly seeded, stemmed and chopped peppers. 1 red bell, 1 green bell pepper and one anaheim chili.
+* 1/4 cup or so chopped garlic.
+* 2 small tomatoes. Chopped into chunks.
+* Tomato paste
 * 1 cup Pickle Juice [You can use McClures spicy brine](http://www.mcclurespickles.com/products/brine)
-* Freshly chopped peppers
-* Chopped garlic
-* Tomato Paste
 * 1/2 cup cucumber juice
 * 1 1/4 tsp kosher salt
 * fresh dill
@@ -18,7 +20,7 @@ Mix Ingredients
 
 Mix Preparation
 -----------
-* Chop the peppers and garlic into small chunks. Place them in large Dutch oven.  Add a splash of water, cover the pot, and cook until the vegetables are mushy, 30 – 40 minutes.  Stir occasionally, breaking up the vegetables with the back of a spoon.  When everything is mushy, leave to cool for a few minutes.
+* Chop the peppers, tomato and garlic into small chunks. Place them in large Dutch oven.  Add a splash of water, cover the pot, and cook until the vegetables are mushy, 30 – 40 minutes.  Stir occasionally, breaking up the vegetables with the back of a spoon.  When everything is mushy, leave to cool for a few minutes.
 * Puree the veggies with the tomato paste.
 * Add everything else.
 * Season with pepper and celery salt.
