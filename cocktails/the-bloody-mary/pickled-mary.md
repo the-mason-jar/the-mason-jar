@@ -12,7 +12,7 @@ Mix Ingredients
 * 2 small tomatoes. Chopped into chunks.
 * 4 oz tomato paste
 * 1 cup tomato juice.
-* 1 cup Pickle Juice [You can use McClures spicy brine](http://www.mcclurespickles.com/products/brine)
+* 1 1/2 cup spicy pickle juice [You can use McClures spicy brine](http://www.mcclurespickles.com/products/brine) or any other pickle juice you have on hand.
 * 1/2 cup cucumber juice
 * 1 1/4 tsp kosher salt
 * Fresh dill
@@ -42,5 +42,6 @@ Notes
 -----------
 
 * If you don't strain the veggies it'll come out a bit thick. Almost smoothly like, but not chunky. Some love it this way, others don't.
+* You can play a bit of mix n' match with the peppers for variety.
 * Add more pickle juice for a more pickley flavor. Add more tomato juice for a more traditional tomato flavor.
 * Go easy on both celery and pepper as they can overwhelm the taste a bit.
