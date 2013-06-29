@@ -18,15 +18,16 @@ Mix Ingredients
 
 Mix Preparation
 -----------
-* Puree watermelon and sugar in blender. Strain into a bowl or jar through sieve, pressing with a rubber spatula; discard solids.
-* Stir in tomato juice, Worcestershire sauce, and hot sauce.
+* Puree watermelon and sugar in blender. 
+* (Optional) Strain into a bowl or jar through sieve, pressing with a rubber spatula; discard solids.
+* Stir in tomato juice, salt, Worcestershire sauce, and hot sauce.
 * Season with pepper and celery salt.
 * Stir or shake well and prepare to serve.
 
 The Mary Sweet
 -----------
 
-* Edge a large class with [sugar]().
+* Edge a large class with [sugar]() or [salt]().
 * Pour in a shot or two of [Tabitha vodka](). Strain if needed.
 * Pour in the mix, fill about 2/3rds of the glass.
 * Add ice. Be sure and leave some room in the glass.
@@ -37,7 +38,7 @@ Notes
 -----------
 
 * You can leave the seeds in if you want, after pureed they don't alter the taste much.
-* For a boozy variation, use the left over watermelon from infusing [watermelon vodka]().
+* For a boozy variation, use a bit the left over watermelon from infusing [watermelon vodka]().Don't use too much though, as it greatly alters the flavor.
 * Adjust the watermelon to tomato juice ratio to vary the sweetness.
 * Go easy on both celery and pepper as they can overwhelm the taste a bit.
 * For a vegan version, use soy sauce or mix a bit of Bragg's Amino Acid with tamarind paste instead of Worchestershire.
