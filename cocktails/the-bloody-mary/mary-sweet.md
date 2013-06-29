@@ -28,7 +28,7 @@ The Mary Sweet
 -----------
 
 * Edge a large class with [sugar]() or [salt]().
-* Pour in a shot or two of [Tabitha vodka](). Strain if needed.
+* Pour in a shot or two of [Tabitha waltermelon & rosemary vodka](). Strain if needed.
 * Pour in the mix, fill about 2/3rds of the glass.
 * Add ice. Be sure and leave some room in the glass.
 * Garnish with a watermellon slice and/or celery.
