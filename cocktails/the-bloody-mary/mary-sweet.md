@@ -1,7 +1,7 @@
 The Mary Sweet
 ===========
 
-A unique take on the bloody mary, for those who like things a bit sweeter.
+A unique take on the bloody mary, for those who like things a bit sweeter. Makes a terrific virgin mary.
 
 Mix Ingredients
 -----------
@@ -11,7 +11,7 @@ Mix Ingredients
 * 2 cups tomato juice
 * 1 1/2 tsp Worcestershire sauce
 * 1 1/4 tsp kosher salt
-* Few dashes of hot sauce to taste.
+* Few dashes of hot sauce to taste. It gets spicy pretty quick, so go easy if you want sweet.
 * Pinch celery salt
 * Freshly ground pepper
 
@@ -19,7 +19,7 @@ Mix Ingredients
 Mix Preparation
 -----------
 * Puree watermelon and sugar in blender. 
-* (Optional) Strain into a bowl or jar through sieve, pressing with a rubber spatula; discard solids.
+* (Optional if you want a thinner consistency.) Strain into a bowl or jar through sieve, pressing with a rubber spatula; discard solids.
 * Stir in tomato juice, salt, Worcestershire sauce, and hot sauce.
 * Season with pepper and celery salt.
 * Stir or shake well and prepare to serve.
