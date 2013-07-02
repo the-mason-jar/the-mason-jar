@@ -1,7 +1,7 @@
 Sazerac
 =======
 
-The official cocktail of New Orleans, and often referred to as the oldest American cocktail -- the Sazerac is a fine cocktail for those who like the taste of Rye...
+The official cocktail of New Orleans, and often referred to as the oldest American cocktail -- the Sazerac is a fine choice for those who like the taste of Rye...
 
 Ingredients
 -----------
