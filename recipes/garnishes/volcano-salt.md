@@ -1,5 +1,7 @@
-Spicy Salt (needs name)
-===========
+---
+layout: post
+title: Volcano Salt
+---
 
 A nice, colorful rimming salt for bloody marys and other spicy concotions.
 

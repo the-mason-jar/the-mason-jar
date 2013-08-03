@@ -1,5 +1,7 @@
-Morgana
-===========
+---
+layout: post
+title: Morgana
+---
 
 A spicy vodka infusion created to cater to those who enjoy the best kind of bloody, one with bold flavor and a good dose of heat.
 

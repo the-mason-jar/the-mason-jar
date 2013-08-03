@@ -1,5 +1,7 @@
-The Original Mary Danger
-===========
+---
+layout: post
+title: The Original Mary Danger
+---
 
 For those who like them traditional and spicy. A nice, herby and spicy bloody mary.
 

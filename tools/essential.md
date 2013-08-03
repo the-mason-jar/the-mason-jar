@@ -1,5 +1,7 @@
-Tools
-===========
+---
+layout: post
+title: Essential Tools
+---
 
 A product is the refelction of the tools used in its creation.
 

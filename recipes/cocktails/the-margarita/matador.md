@@ -1,5 +1,7 @@
-Matador
-===========
+---
+layout: post
+title: The Matador
+---
 
 A variation on the Margarita.
 

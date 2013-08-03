@@ -1,5 +1,7 @@
-The Pickled Mary
-===========
+---
+layout: post
+title: The Pickled Mary
+---
 
 [In Progress]. A spicy pickled take. Base loosely off of McClure's Spicy Bloody Mary Mix, which is awesome.
 
