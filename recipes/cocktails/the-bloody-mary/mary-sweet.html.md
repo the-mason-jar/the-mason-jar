@@ -1,5 +1,6 @@
 ---
 title: The Mary Sweet
+featured: true
 ---
 
 A unique take on the bloody mary, for those who like things a bit sweeter. Makes a terrific virgin mary.
