@@ -14,3 +14,7 @@ A few quick guidelines.
 * Every recipe we add to this repo will also be added to our website at [the-mason-jar.com](http://www.the-mason-jar.com).
 
 More to come!
+
+Thanks yo.
+
+Keith & Chad
