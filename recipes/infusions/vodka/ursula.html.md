@@ -2,7 +2,7 @@
 title: Ursula
 ---
 
-This cucumber vodka infusion is for those wanting a nice, crisp base for their drinks. Can also be served right out of the freezer as a nice refreshing shot. Test.
+This cucumber vodka infusion is for those wanting a nice, crisp base for their drinks. Can also be served right out of the freezer as a nice refreshing shot.
 
 
 Ingredients
