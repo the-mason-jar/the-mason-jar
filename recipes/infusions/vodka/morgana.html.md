@@ -2,7 +2,7 @@
 title: Morgana Spicy Vodka
 ---
 
-A spicy vodka infusion created to cater to those who enjoy the best kind of bloody, one with bold flavor and a good dose of heat.
+A spicy vodka infusion created to cater to those who enjoy the best kind of bloody mary, one with bold flavor and a good dose of heat.
 
 
 Ingredients
@@ -13,9 +13,9 @@ Ingredients
 * 2 stalks lemon grass
 * 1-2 tsp dried orange peel
 * Fresh lemon peel
-* 4 bay Leaves
+* 4 bay leaves
 * 1 tsp juniper berries
-* 1 tsp Allspice Seeds
+* 1 tsp allspice seeds
 * 4 black cardamom pods
 * 2 Peeled garlic cloves
 * Pinch each of celery salt, cumin seeds, garlic/onion poweder and coriander

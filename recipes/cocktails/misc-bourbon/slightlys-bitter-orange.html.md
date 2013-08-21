@@ -20,7 +20,7 @@ Technique
 -----------
 
 1. Fill a medium glass or mason jar with large cubed ice.
-2. Pour burbon, Lillet and Antica over the ice.
+2. Pour Bourbon, Lillet and Antica over the ice.
 3. Pour in orange juice to taste.
 4. Stir well.
 5. Garnish with a mint sprig.
