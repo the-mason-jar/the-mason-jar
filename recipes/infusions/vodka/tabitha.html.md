@@ -1,8 +1,8 @@
 ---
-title: Tabitha
+title: Tabitha Watermelon Vodka
 ---
 
-A slightly sweet watermelon & rosemary infusion.
+A slightly sweet watermelon &amp; rosemary infusion.
 
 
 Ingredients

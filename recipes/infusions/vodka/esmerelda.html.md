@@ -1,5 +1,5 @@
 ---
-title: Esmerelda
+title: Esmerelda Pepper Vodka
 ---
 
 A hot & spicy pepper vodka infusion for those who enjoy a hot and fiery bloody.
@@ -9,7 +9,7 @@ Ingredients
 -----------
 
 * 1 serrano pepper, stemmed, seeded, and quartered lengthwise
-* 1 jaiapeño pepper, stemmed, seeded, and quartered lengthwise
+* 1 jaiape&#x144;o pepper, stemmed, seeded, and quartered lengthwise
 * 1 red habanero pepper, stemmed, seeded, and quartered lengthwise
 * One 750 ml bottle of Tito's vodka.
 

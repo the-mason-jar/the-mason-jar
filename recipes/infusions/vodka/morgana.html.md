@@ -1,5 +1,5 @@
 ---
-title: Morgana
+title: Morgana Spicy Vodka
 ---
 
 A spicy vodka infusion created to cater to those who enjoy the best kind of bloody, one with bold flavor and a good dose of heat.
