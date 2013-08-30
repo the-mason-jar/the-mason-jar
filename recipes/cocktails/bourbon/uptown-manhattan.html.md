@@ -1,5 +1,5 @@
 ---
-title: &ldquo;Uptown&rdquo; Mannhattan
+title: Uptown Mannhattan
 ---
 
 The Original.
