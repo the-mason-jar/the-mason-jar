@@ -2,30 +2,30 @@
 title: Uptown Mannhattan
 ---
 
-A take on the classic Manhattan invented by [Marcovaldo Dionysos](http://www.sfgate.com/food/article/BAR-STARS-Marcovaldo-Dionysos-3171394.php) that substitutes Itailian amaro in place of vermouth.
+From Chad's Book.
 
 
 Ingredients
 -----------
 
 * 2 oz Bourbon whiskey (Maker's Mark recommended)
-* 1/2 oz Amaro Nonino
-* 2 dashes orange bitters
-* 1 barspoon cherry brandy from brandied cherries
-* 1 large orange twist, as garnish
-* 1 brandied cherry, as garnish
+* 2 oz Carpano Antica sweet vermouth
+* Dash of Angostura bitters
+* Dash of orange bitters
+* 3 brandied cherries
+* Orange twist for garnish
 
 
 Technique
 -----------
 
-1. Stir or shake Bourbon, Amaro Nonino, bitters and brandy over ice and strain into a chilled cocktail glass.
-2. Hold a lighted match over the glass, take the orange twist in your other hand and hold it by the sides using your thumb and first two fingers. (The colored side of the twist must face the drink.)
-3. Hold the twist over the match and squeeze it to release its oils.
-4. Garnish with cherry.
+1. Combine the Bourbon, Antica, and bitters in an ice-filled cocktail shaker.
+2. Stir gently 20-30 seconds until cold.
+3. Strain into chilled cocktail glass.
+4. Garnish with cherries and orange swist.
 
 
 Notes
 -----------
 
-* Here is [a video](http://vimeo.com/3967294) of Marcovaldo Dionysos walking you through it.
+* Original source: [Book](link)
