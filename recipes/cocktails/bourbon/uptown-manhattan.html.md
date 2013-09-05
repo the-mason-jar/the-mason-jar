@@ -2,7 +2,7 @@
 title: Uptown Mannhattan
 ---
 
-As prepared in Hayes Valley at Absinthe -- The 'Uptown' Manhattan.
+As prepared in Hayes Valley at Absinthe -- the 'Uptown' Manhattan.
 
 
 Ingredients
