@@ -2,7 +2,7 @@
 title: Uptown Mannhattan
 ---
 
-From Chad's Book.
+As prepared in Hayes Valley at Absinthe -- The 'Uptown' Manhattan.
 
 
 Ingredients
