@@ -13,7 +13,7 @@ Ingredients
 * 2 stalks lemon grass
 * 1-2 tsp dried orange peel
 * Fresh lemon peel
-* 4 bay leaves
+* 4 fresh bay leaves
 * 1 tsp juniper berries
 * 1 tsp allspice seeds
 * 4 black cardamom pods
@@ -34,6 +34,7 @@ Preparation
 Notes
 -----------
 
+* Bay leaves don't keep well. Go fresh!
 * Taste often.
 * The longer you leave it, the hotter it'll get. If you want something a bit milder, pull out the chilis.
 * Higher proof vodka will infuse faster. Keep that in mind.
