@@ -2,7 +2,7 @@
 title: The Pickled Mary
 ---
 
-[In Progress]. A spicy pickled take. Base loosely off of McClure's Spicy Bloody Mary Mix, which is awesome.
+[In Progress]. A spicy pickled take. Based loosely off of McClure's Spicy Bloody Mary Mix, which is awesome.
 
 Mix Ingredients
 -----------
