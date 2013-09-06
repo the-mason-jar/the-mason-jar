@@ -1,6 +1,8 @@
 ---
 title: The Pickled Mary
-tags: vodka, bloody mary
+tags:
+  - vodka
+  - bloody mary
 ---
 
 [In Progress]. A spicy pickled take. Based loosely off of McClure's Spicy Bloody Mary Mix, which is awesome.

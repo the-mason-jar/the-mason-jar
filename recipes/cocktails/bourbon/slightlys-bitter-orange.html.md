@@ -1,6 +1,7 @@
 ---
 title: Slighlty's Bitter Orange
-tags: whiskey, burbon
+tags:
+  - bourbon
 ---
 
 A nice, slightly sweet, slightly bitter, slightly surupy, citrus drink.

@@ -1,6 +1,8 @@
 ---
 title: Toronto Cocktail
-tags: whiskey, rye, fernet
+tags:
+  - rye
+  - fernet
 ---
 
 A assertive cocktail, pairing the curious taste of Fernet Branca, with the crispness of Rye Whiskey.

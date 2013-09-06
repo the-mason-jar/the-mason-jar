@@ -1,6 +1,8 @@
 ---
 title: The Matador
-tags: tequila, margarita
+tags:
+  - tequila
+  - margarita
 ---
 
 A variation on the Margarita.

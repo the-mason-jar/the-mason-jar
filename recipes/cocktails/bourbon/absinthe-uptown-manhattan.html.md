@@ -1,6 +1,8 @@
 ---
 title: Absinthe Uptown Manhattan
-tags: whiskey, burbon, manhattan
+tags:
+  - bourbon
+  - manhattan
 ---
 
 As prepared in Hayes Valley at Absinthe -- the 'Uptown' Manhattan.

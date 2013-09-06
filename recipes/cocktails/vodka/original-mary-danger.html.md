@@ -1,6 +1,8 @@
 ---
 title: The Original Mary Danger
-tags: vodka, bloody mary
+tags:
+  - vodka
+  - bloody mary
 ---
 
 For those who like them traditional and spicy. A nice, herby and spicy bloody mary.
