@@ -1,9 +1,10 @@
 ---
 title: Blue Bottle White Russian
+tags: vodka, white russian
 ---
 
 The signature drink of the The Dude, made with San Francisco's own - Blue
-Bottle Coffee. 
+Bottle Coffee.
 
 Ingredients
 -----------

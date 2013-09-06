@@ -1,5 +1,6 @@
 ---
 title: Old Fashioned
+tags: whiskey, burbon, old fashioned
 ---
 
 The Original.

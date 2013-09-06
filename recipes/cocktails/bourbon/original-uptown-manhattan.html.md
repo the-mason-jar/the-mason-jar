@@ -1,5 +1,6 @@
 ---
-title: Original Uptown Mannhattan
+title: Original Uptown Manhattan
+tags: whiskey, burbon, manhattan
 ---
 
 A take on the classic Manhattan invented by [Marcovaldo Dionysos](http://www.sfgate.com/food/article/BAR-STARS-Marcovaldo-Dionysos-3171394.php) that substitutes Itailian amaro in place of vermouth.
