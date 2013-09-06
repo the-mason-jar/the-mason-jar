@@ -26,4 +26,4 @@ Notes
 * Try and make sure all the cucumber is covered. If it isn't it'll dry out and/or wilt.
 * Turn and/or shake once daily, to make sure all the vodka is infused evenly.
 * Make sure to taste often.
-* Be sure and strain the vodka well. A coffee fitler works well for this. You don't want any particles breaking down over time in your infusion.
+* Be sure and strain the vodka well. A coffee filter works well for this. You don't want any particles breaking down over time in your infusion.

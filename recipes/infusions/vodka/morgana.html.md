@@ -40,4 +40,4 @@ Notes
 * Higher proof vodka will infuse faster. Keep that in mind.
 * Keep an eye on the cilantro, it gets wilty quickly and might need to be taken out.
 * Don't infuse for too long, it'll get a little funky or bitter.
-* Be sure and strain the vodka well. A coffee fitler works well for this. You don't want any particles breaking down over time in your infusion.
+* Be sure and strain the vodka well. A coffee filter works well for this. You don't want any particles breaking down over time in your infusion.

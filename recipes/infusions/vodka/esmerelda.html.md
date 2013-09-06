@@ -32,4 +32,4 @@ Notes
 * The longer you leave it, the hotter it'll get. If you want something a bit milder, pull out the chilis.
 * Higher proof vodka will infuse faster. Keep that in mind.
 * Don't infuse for too long, it'll get a little funky or bitter.
-* Be sure and strain the vodka well. A coffee fitler works well for this. You don't want any particles breaking down over time in your infusion.
+* Be sure and strain the vodka well. A coffee filter works well for this. You don't want any particles breaking down over time in your infusion.

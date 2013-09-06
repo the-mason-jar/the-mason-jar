@@ -28,5 +28,5 @@ Notes
 
 * Turn and/or shake the jar once a day or so, to make sure the vodka is more evenly infused.
 * Make sure to taste often. If left too long the rosemary sprigs can over power the watermelon flavor.
-* Be sure and strain the vodka well. A coffee fitler works well for this. You don't want any particles breaking down over time in your infusion.
+* Be sure and strain the vodka well. A coffee filter works well for this. You don't want any particles breaking down over time in your infusion.
 * Great for use in watermelon bloody marys.
