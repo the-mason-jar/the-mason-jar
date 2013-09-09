@@ -3,6 +3,9 @@ title: Absinthe Uptown Manhattan
 tags:
   - bourbon
   - manhattan
+mixologist:
+  name: Chad Seeger
+  github: https://github.com/cseeger
 ---
 
 As prepared in Hayes Valley at Absinthe -- the 'Uptown' Manhattan.

@@ -3,6 +3,9 @@ title: Blue Bottle White Russian
 tags:
   - vodka
   - white russian
+mixologist:
+  name: Chad Seeger
+  github: https://github.com/cseeger
 ---
 
 The signature drink of the The Dude, made with San Francisco's own - Blue

@@ -1,5 +1,8 @@
 ---
 title: Tabitha Watermelon Vodka
+mixologist:
+  name: D. Keith Robinson
+  github: https://github.com/keithrobinson
 ---
 
 A slightly sweet watermelon &amp; rosemary infusion.

@@ -3,6 +3,9 @@ title: The Matador
 tags:
   - tequila
   - margarita
+mixologist:
+  name: D. Keith Robinson
+  github: https://github.com/keithrobinson
 ---
 
 A variation on the Margarita.

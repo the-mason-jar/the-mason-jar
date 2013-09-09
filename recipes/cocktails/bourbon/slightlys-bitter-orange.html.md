@@ -2,10 +2,12 @@
 title: Slighlty's Bitter Orange
 tags:
   - bourbon
+mixologist:
+  name: D. Keith Robinson
+  github: https://github.com/keithrobinson
 ---
 
 A nice, slightly sweet, slightly bitter, slightly surupy, citrus drink.
-
 
 Ingredients
 -----------

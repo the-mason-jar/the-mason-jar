@@ -1,5 +1,8 @@
 ---
 title: Ursula Cucumber Vodka
+mixologist:
+  name: D. Keith Robinson
+  github: https://github.com/keithrobinson
 ---
 
 This cucumber vodka infusion is for those wanting a nice, crisp base for their drinks. Can also be served right out of the freezer as a nice refreshing shot.

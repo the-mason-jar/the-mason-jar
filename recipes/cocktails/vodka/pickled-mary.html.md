@@ -3,6 +3,9 @@ title: The Pickled Mary
 tags:
   - vodka
   - bloody mary
+mixologist:
+  name: D. Keith Robinson
+  github: https://github.com/keithrobinson
 ---
 
 [In Progress]. A spicy pickled take. Based loosely off of McClure's Spicy Bloody Mary Mix, which is awesome.

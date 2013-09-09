@@ -1,5 +1,8 @@
 ---
 title: Volcano Salt
+mixologist:
+  name: D. Keith Robinson
+  github: https://github.com/keithrobinson
 ---
 
 A nice, colorful rimming salt for bloody marys and other spicy concotions.

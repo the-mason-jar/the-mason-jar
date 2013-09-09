@@ -1,5 +1,8 @@
 ---
 title: Esmerelda Pepper Vodka
+mixologist:
+  name: D. Keith Robinson
+  github: https://github.com/keithrobinson
 ---
 
 A hot & spicy pepper vodka infusion for those who enjoy a hot and fiery bloody.

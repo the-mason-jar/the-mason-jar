@@ -3,6 +3,9 @@ title: Toronto Cocktail
 tags:
   - rye
   - fernet
+mixologist:
+  name: Chad Seeger
+  github: https://github.com/cseeger
 ---
 
 A assertive cocktail, pairing the curious taste of Fernet Branca, with the crispness of Rye Whiskey.

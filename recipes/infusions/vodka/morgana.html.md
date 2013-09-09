@@ -1,5 +1,8 @@
 ---
 title: Morgana Spicy Vodka
+mixologist:
+  name: D. Keith Robinson
+  github: https://github.com/keithrobinson
 ---
 
 A spicy vodka infusion created to cater to those who enjoy the best kind of bloody mary, one with bold flavor and a good dose of heat.

@@ -4,6 +4,9 @@ tags:
   - rye
   - absinthe
   - sazerac
+mixologist:
+  name: Chad Seeger
+  github: https://github.com/cseeger
 ---
 
 The official cocktail of New Orleans, and often referred to as the oldest American cocktail -- the Sazerac is a fine choice for those who like the taste of Rye.

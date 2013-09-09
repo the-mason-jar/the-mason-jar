@@ -3,6 +3,9 @@ title: The Original Mary Danger
 tags:
   - vodka
   - bloody mary
+mixologist:
+  name: D. Keith Robinson
+  github: https://github.com/keithrobinson
 ---
 
 For those who like them traditional and spicy. A nice, herby and spicy bloody mary.

@@ -3,6 +3,9 @@ title: Old Fashioned
 tags:
   - bourbon
   - old fashioned
+mixologist:
+  name: Chad Seeger
+  github: https://github.com/cseeger
 ---
 
 The Original.
