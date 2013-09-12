@@ -2,7 +2,6 @@
 title: The Baudin
 tags:
   - bourbon
-  - lemon
 mixologist:
   name: Chad Seeger
   github: https://github.com/cseeger
@@ -27,7 +26,7 @@ Technique
 1. Combine the Bourbon, lemon juice, and honey simple syrup in an ice-filled cocktail shaker.
 2. Give a hearty shake for about 5 seconds.
 3. Strain into chilled old fashioned glass with crushed ice.
-4. Add lemon peel
+4. Add lemon peel.
 
 
 Notes
