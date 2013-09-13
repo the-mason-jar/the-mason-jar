@@ -2,13 +2,10 @@
 title: Ash Wednesday
 tags:
   - gin
-  - classics
 mixologist:
   name: Matthew Conway
   github: https://github.com/mattonrails
 ---
-
-...
 
 Ingredients
 -----------

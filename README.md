@@ -10,6 +10,7 @@ For recipes already part of the repo, be sure and let us know why you think your
 A few quick guidelines.
 
 * All of our cocktail recipes are written with markdown formatting and we'd love it if any new submissions used that as well. If you're not sure what markdown is, check out [this handy guide.](http://daringfireball.net/projects/markdown/)
+* Files should be extended with html.md. This is so we can parse the markdown to html.
 * Please try and maintain the directory structure. It should be fairly straightforward, but if you're not sure where something should go, just take your best guess.
 * Tags should be simple. Just keep it to the basics: primary spirits and drink type. Save flavor profiles, etc. for the description.
 * Every recipe we add to this repo will also be added to our website at [the-mason-jar.com](http://www.the-mason-jar.com).

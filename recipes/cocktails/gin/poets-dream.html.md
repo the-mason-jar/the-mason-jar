@@ -2,7 +2,6 @@
 title: Poet's Dream
 tags:
   - gin
-  - classics
 mixologist:
   name: Matthew Conway
   github: https://github.com/mattonrails
