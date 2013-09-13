@@ -1,11 +1,12 @@
 ---
 title: Absinthe Uptown Manhattan
-tags:
+tags: 
   - bourbon
   - manhattan
-mixologist:
+mixologist: 
   name: Chad Seeger
-  github: https://github.com/cseeger
+  github: "https://github.com/cseeger"
+published: true
 ---
 
 As prepared in Hayes Valley at Absinthe -- the 'Uptown' Manhattan.
@@ -29,9 +30,3 @@ Technique
 2. Stir gently 20-30 seconds until cold.
 3. Strain into chilled cocktail glass.
 4. Garnish with cherries and orange swist.
-
-
-Notes
------------
-
-* Original source: [Book](link)
