@@ -7,7 +7,7 @@ mixologist:
   github: https://github.com/keithrobinson
 ---
 
-A nice, slightly sweet, slightly bitter, slightly surupy, citrus drink.
+A nice, slightly sweet, slightly bitter, slightly syrupy, citrus drink.
 
 Ingredients
 -----------
