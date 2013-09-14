@@ -34,8 +34,8 @@ Mix Preparation
 The Original Mary Danger
 -----------
 
-* Edge a large class with [volcano salt](http://www.the-mason-jar.com/the-mason-jar/recipes/extras/garnishes/volcano-salt.html).
-* Pour in a shot or two of [Morgana spice and herb vodka](http://www.the-mason-jar.com/the-mason-jar/recipes/infusions/vodka/morgana.html). Strain if needed.
+* Edge a large class with [volcano salt](http://www.the-mason-jar.com/extras/garnishes/volcano-salt.html).
+* Pour in a shot or two of [Morgana spice and herb vodka](http://www.the-mason-jar.com/infusions/vodka/morgana.html). Strain if needed.
 * Pour in the mix, fill about 2/3rds of the glass.
 * Add ice. Be sure and leave some room in the glass.
 * If you have it, pour a little Guinness on top.
@@ -55,4 +55,4 @@ Notes
 
 * Go easy on both celery and pepper as they can overwhelm the taste a bit.
 * For a vegan version, use tamari, soy or a bit of Bragg's liquid amino mixed with tamarind paste instead of Worcestershire.
-* Substitute [Esmerelda pepper vodka](http://www.the-mason-jar.com/the-mason-jar/recipes/infusions/vodka/esmerelda.html) if you want heat, or [Ursula cucumber vodka](http://www.the-mason-jar.com/the-mason-jar/recipes/infusions/vodka/ursula.html) if you want something more crisp.
+* Substitute [Esmerelda pepper vodka](http://www.the-mason-jar.com/infusions/vodka/esmerelda.html) if you want heat, or [Ursula cucumber vodka](http://www.the-mason-jar.com/infusions/vodka/ursula.html) if you want something more crisp.
