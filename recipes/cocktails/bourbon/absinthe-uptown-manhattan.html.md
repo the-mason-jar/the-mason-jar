@@ -29,4 +29,4 @@ Technique
 1. Combine the Bourbon, Antica, and bitters in an ice-filled cocktail shaker.
 2. Stir gently 20-30 seconds until cold.
 3. Strain into chilled cocktail glass.
-4. Garnish with cherries and orange swist.
+4. Garnish with cherries and orange twist.
