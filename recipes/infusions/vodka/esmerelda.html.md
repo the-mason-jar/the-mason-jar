@@ -7,7 +7,6 @@ mixologist:
 
 A hot & spicy pepper vodka infusion for those who enjoy a hot and fiery bloody.
 
-
 Ingredients
 -----------
 
@@ -16,7 +15,6 @@ Ingredients
 * 1 red habanero pepper, stemmed, seeded, and quartered lengthwise
 * One 750ml bottle of Tito's vodka
 
-
 Preparation
 -----------
 
@@ -24,7 +22,6 @@ Preparation
 * Let steep overnight.
 * Strain the infused vodka into a new, clean bottle.
 * Cap tightly, and refrigerate (or put in the freezer) until ready to serve.
-
 
 Notes
 -----------
@@ -36,3 +33,8 @@ Notes
 * Higher proof vodka will infuse faster. Keep that in mind.
 * Don't infuse for too long, it'll get a little funky or bitter.
 * Be sure and strain the vodka well. A coffee filter works well for this. You don't want any particles breaking down over time in your infusion.
+
+Cocktail Ideas & Recipes
+-----------
+
+* [The Mary Danger](http://www.the-mason-jar.com/cocktails/vodka/original-mary-danger.html)

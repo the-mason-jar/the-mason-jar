@@ -23,8 +23,8 @@ Mix Ingredients
 * 4 oz finely chopped horseradish
 * 2 oz Worchestershire sauce
 * 6 oz freshly squeezed lime juice
-* Dash or two of pickle juice.
-* Dash or two of hot sauce.
+* Dash or two of pickle juice
+* Dash or two of hot sauce
 
 Mix Preparation
 -----------

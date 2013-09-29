@@ -12,7 +12,7 @@ Ingredients
 -----------
 * 3-6 cups cubed watermelon
 * 2 springs fresh rosemary
-* One 750 ml bottle of Tito's vodka.
+* One 750 ml bottle of Tito's vodka
 
 
 Preparation
@@ -33,3 +33,9 @@ Notes
 * Make sure to taste often. If left too long the rosemary sprigs can over power the watermelon flavor.
 * Be sure and strain the vodka well. A coffee filter works well for this. You don't want any particles breaking down over time in your infusion.
 * Great for use in watermelon bloody marys.
+
+Cocktail Ideas & Recipes
+-----------
+
+* Great as refeshing shots right out of the freezer.
+* [The Mary Sweet](http://www.the-mason-jar.com/cocktails/vodka/mary-sweet.html)

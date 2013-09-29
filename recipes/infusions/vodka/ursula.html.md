@@ -11,7 +11,7 @@ This cucumber vodka infusion is for those wanting a nice, crisp base for their d
 Ingredients
 -----------
 * 1 large English cucumber, cored and chopped
-* One 750 ml bottle of Tito's vodka.
+* One 750 ml bottle of Tito's vodka
 
 Preparation
 -----------
@@ -30,3 +30,9 @@ Notes
 * Turn and/or shake once daily, to make sure all the vodka is infused evenly.
 * Make sure to taste often.
 * Be sure and strain the vodka well. A coffee filter works well for this. You don't want any particles breaking down over time in your infusion.
+
+Cocktail Ideas & Recipes
+-----------
+
+* [The Mary Danger](http://www.the-mason-jar.com/cocktails/vodka/original-mary-danger.html)
+* [Pickled Mary](http://www.the-mason-jar.com/cocktails/vodka/pickled-mary.html)
