@@ -34,6 +34,7 @@ Preparation
 Notes
 -----------
 
+* This one has a lot going on. When fitering you might need to do several passes. The idea is to not let anything through, unless you plan of drinking right away. It'll usually show up a bit golden, and that's ok, but if there are left over spices floating in there and you plan on storing it, give it another pass.
 * Bay leaves don't keep well. Go fresh!
 * Taste often.
 * The longer you leave it, the hotter it'll get. If you want something a bit milder, pull out the chilis.
