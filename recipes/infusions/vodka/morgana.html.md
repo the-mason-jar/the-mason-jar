@@ -44,6 +44,11 @@ Notes
 * Be sure and strain the vodka well. A coffee filter works well for this. You don't want any particles breaking down over time in your infusion.
 * Adding a little fresh dill can add an interesting twist.
 
+Experimentation notes
+-----------
+
+* Remove lemongrass? Something makes this slightly bitter. That might be it.
+
 Cocktail Ideas & Recipes
 -----------
 
