@@ -51,6 +51,7 @@ Notes
 
 * Cucumber juice can be hard to come by. Puree one or two large cucumbers with a bit of water and strain. That does the trick well.
 * If you don't strain the veggies it'll come out a bit thick. Almost smoothy like, but not chunky. Some love it this way, others don't. The straining can be a bit time consuming, I've found adding some of the tomato juice helps a bit.
+* If the mix is too thick, no worries, just add some water.
 * You can play a bit of mix n' match with the peppers for variety.
 * Add more pickle juice for a more pickley flavor. Add more tomato juice for a more traditional tomato flavor.
 * Go easy on both celery and pepper as they can overwhelm the taste a bit.

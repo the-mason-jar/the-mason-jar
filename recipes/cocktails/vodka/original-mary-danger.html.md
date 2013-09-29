@@ -54,5 +54,6 @@ Notes
 -----------
 
 * Go easy on both celery and pepper as they can overwhelm the taste a bit.
+* If the mix is a bit thick, no worries, just add some water.
 * For a vegan version, use tamari, soy or a bit of Bragg's liquid amino mixed with tamarind paste instead of Worcestershire.
 * Substitute [Esmerelda pepper vodka](http://www.the-mason-jar.com/infusions/vodka/esmerelda.html) if you want heat, or [Ursula cucumber vodka](http://www.the-mason-jar.com/infusions/vodka/ursula.html) if you want something more crisp.
