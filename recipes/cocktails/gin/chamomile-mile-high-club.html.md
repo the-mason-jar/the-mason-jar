@@ -13,7 +13,7 @@ At the corner of Haight and Steiner you'll find Maven. While known for their gre
 Ingredients
 -----------
 
-* 2 oz Russell’s Reserve Bourbon
+* 2 oz Russell's Reserve Bourbon
 * 1/2 oz apricot liquer
 * 1/2 oz chamomile simple syrup
 * 3/4 oz fresh lemon juice
