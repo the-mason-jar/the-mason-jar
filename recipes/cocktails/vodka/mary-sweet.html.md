@@ -1,6 +1,5 @@
 ---
 title: The Mary Sweet
-featured: true
 tags:
   - vodka
   - bloody mary

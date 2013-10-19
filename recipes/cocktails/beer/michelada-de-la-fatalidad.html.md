@@ -1,5 +1,6 @@
 ---
 title: Michelada de la Fatalidad
+featured: true
 mixologist:
   name: D. Keith Robinson
   github: https://github.com/keithrobinson
@@ -17,13 +18,12 @@ Drink Ingredients
 -----------
 * 1 tbsp spice mix from above
 * Juice from one or two medium limes
-* 2 tbsp Worcestershire sauce
-* 1 tbsp Bragg's liquid aminos
+* 1 tbsp Worcestershire sauce
+* 1/2 tbsp Bragg's liquid aminos
 * 1 tsp peperoncini juice
 * 1/2 cup tomato juice
 * 10-12 oz lager beer (Tecate)
 * [Volcano salt](/extras/garnishes/volcano-salt.html) for garnish.
-
 
 Preparation
 -----------
@@ -38,11 +38,14 @@ Preparation
 * Add tomato juice, stir again.
 * Slowly pour in the beer. Stirring as you go.
 
-
-
 Notes
 -----------
 
 * Add a dash or two of hot sauce if it's not hot enough for you.
 * Be sure and use a large glass!
+
+Experimentation notes
+-----------
+
+* Try with a darker, bolder lager or Schwarzbier.
 
