@@ -14,13 +14,13 @@ Ingredients
 * 1/4 cup garlic or onion powder
 * 1/4 cup chili powder
 * 1/4 cup ground pepper
-* Pinch each celery salt, cumin seeds, smoky peprika, dried and ground lemon peel, hawaiian red salt
+* A few dashes each of celery salt, cumin seeds, smoky peprika, dried and ground lemon or orange peel, hawaiian red salt
 
 
 Preparation
 -----------
 
-Add all the ingredients to mixing bowl and stir well. Apply a bit of citrus to the rim of a glass, dip and serve.
+Add all the ingredients to mixing bowl and stir well. Use with a bit of citrus to rim of a glass for micheladas, bloody marys and other spicy drinks.
 
 
 Notes
