@@ -1,3 +1,12 @@
+---
+title: Ash Wednesday
+tags:
+  - gin
+mixologist:
+  name: Matthew Conway
+  github: https://github.com/mattonrails
+---
+
 Ingredients
 -----------
 
