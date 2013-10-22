@@ -1,12 +1,3 @@
----
-title: Ash Wednesday
-tags:
-  - gin
-mixologist:
-  name: Matthew Conway
-  github: https://github.com/mattonrails
----
-
 Ingredients
 -----------
 
@@ -29,5 +20,5 @@ Notes
 
 * In the absence of heavy cream, substitute half-and-half.
 * To avoid gunking up your shaker, combine two parts honey to one part hot
-  water, stir to dissolve, cool, and refridgerate until needed.
+  water, stir to dissolve, cool, and refrigerate until needed.
 * Courtesy of Michael McIlroy; Milk & Honey, New York
