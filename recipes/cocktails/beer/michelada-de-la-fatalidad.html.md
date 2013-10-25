@@ -4,6 +4,7 @@ featured: true
 mixologist:
   name: D. Keith Robinson
   github: https://github.com/keithrobinson
+image: http://cl.ly/image/2y2h0A0X3p09/Screen%20Shot%202013-10-25%20at%203.13.17%20PM.png
 ---
 
 The Michelada of Doom. Don't worry, it's not that spicy. (Still in work.)
