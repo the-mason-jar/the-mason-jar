@@ -9,9 +9,7 @@ mixologist:
   github: https://github.com/keithrobinson
 ---
 
-(In work. Needs a better name.)
-
-Vegan nog is quicker, easier and healthier to make than traditional eggnog. This here is a fun take on a holiday classic.
+[In Progress. Needs a better name.] Vegan nog is quicker, easier and healthier to make than traditional eggnog. This here is a fun take on a holiday classic.
 
 
 Ingredients
@@ -45,4 +43,4 @@ Technique
 Notes
 -----------
 
-* A variation of (Matrioshka Eggnog)[http://www.theppk.com/2010/12/matrioshka-eggnog/]
+* A variation of [Matrioshka Eggnog](http://www.theppk.com/2010/12/matrioshka-eggnog/)
