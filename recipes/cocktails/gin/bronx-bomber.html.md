@@ -4,7 +4,7 @@ tags:
   - gin
   - brunch
 mixologist:
-  name: Chad Seeger via Absinthe Bar in Hayes Valley, San Francisco, CA
+  name: Chad Seeger
   github: https://github.com/cseeger
 ---
 
@@ -28,3 +28,7 @@ Technique
 2. Strain into cocktail glass.
 3. Garnish with orange twist.
 4. Enjoy.
+
+Notes
+-----------
+* As prepared by Absinthe Bar in Hayes Valley, San Francisco, CA

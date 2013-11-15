@@ -8,8 +8,7 @@ mixologist:
   github: https://github.com/cseeger
 ---
 
-The signature drink of the The Dude, made with San Francisco's own - Blue
-Bottle Coffee.
+The signature drink of the The Dude, made with San Francisco's own - Blue Bottle Coffee.
 
 Ingredients
 -----------
