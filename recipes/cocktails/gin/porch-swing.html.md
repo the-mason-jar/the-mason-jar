@@ -12,7 +12,7 @@ Ingredients
 -----------
 
 * 1 1/2 ounces gin (suggest Hendricks)
-* 1 1/2 ounces Pimm’s No. 1 liqueur
+* 1 1/2 ounces Pimm's No. 1 liqueur
 * 4 ounces homemade lemonade
 * 7-Up or another lemon/lime soda
 * 10 thin slices of cucumber
@@ -21,7 +21,7 @@ Ingredients
 Technique
 ---------
 
-1. Pour gin, Pimm’s and lemonade into tall Collins glass
+1. Pour gin, Pimm's and lemonade into tall Collins glass
 2. Add a few ice cubes
 3. Fill with ice
 4. Top with splash of 7-Up
