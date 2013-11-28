@@ -31,9 +31,9 @@ Technique
 Notes
 -----
 
-* perfect drink for the spring/summer seasons
-* homemade lemonade is
-    - 1 part freshly squeezed lemon juice
-    - 1 part simple syrup, or to taste
-    - 2 parts water
+* Perfect drink for the spring/summer seasons
+* Homemade lemonade is
+  - 1 part freshly squeezed lemon juice
+  - 1 part simple syrup, or to taste
+  - 2 parts water
 
