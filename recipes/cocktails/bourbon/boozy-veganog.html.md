@@ -16,16 +16,15 @@ Ingredients
 -----------
 
 * 1 ripe avocado
-* 2 cups canned coconut milk
+* 2 cups coconut milk
 * 3 cups almond milk
 * 1/2 cup agave nectar
 * 1/2 teaspoon pure vanilla extract
 * Tiny pinch ground cloves
 * 2 tablespoons fresh lemon juice
 * Pinch kosher salt
-* 1 liter (about 4 cups) bourbon (Maker's Mark, Woodford Reserve or your choice.)
-* 1/2 cup dark rum (Kraken or Myer's)
-* 1/2 to 1 cup good Cognac or other brandy
+* 1 liter (about 4 cups) bourbon
+* 1/2 cup dark rum
 * 1 teaspoon freshly ground nutmeg
 * 1/4 teaspoon freshly ground cinnamon
 
