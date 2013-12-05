@@ -3,8 +3,8 @@ title: Apple Spice and Bourbon Flip
 tags:
   - bourbon
 mixologist:
-  name: Ashley Rose
-  github:
+  name: D. Keith Robinson (via Ashley Rose)
+  github: https://github.com/keithrobinson
 ---
 
 A great holiday/winter warmer [as featured on Apartment 34.](http://apartment34.com/2013/11/tasty-tuesday-bourbon-anyone/)
