@@ -20,7 +20,8 @@ Ingredients
 Technique
 -----------
 
-1. Place Bourbon, syrup and egg whites dry (no ice) into shaker and shake for 20 seconds.2. Add a cup of ice to the shaker and shake for another 20 seconds.
+1. Place Bourbon, syrup and egg whites dry (no ice) into shaker and shake for 20 seconds
+2. Add a cup of ice to the shaker and shake for another 20 seconds.
 3. Strain into a coupe and sprinkle with cinnamon or nutmeg, or both!
 
 Notes
