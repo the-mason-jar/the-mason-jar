@@ -5,7 +5,7 @@ mixologist:
   github: https://github.com/keithrobinson
 ---
 
-A
+A nice spicy apple simple syrup, great for use in wintertime and holiday drinks.
 
 Ingredients
 -----------
