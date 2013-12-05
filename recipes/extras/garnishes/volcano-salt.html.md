@@ -20,7 +20,7 @@ Ingredients
 Preparation
 -----------
 
-Add all the ingredients to mixing bowl and stir well. Use with a bit of citrus to rim of a glass for micheladas, bloody marys and other spicy drinks.
+1. Add all the ingredients to mixing bowl and stir well. Use with a bit of citrus to rim of a glass for micheladas, bloody marys and other spicy drinks.
 
 
 Notes
