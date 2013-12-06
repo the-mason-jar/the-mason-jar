@@ -13,7 +13,7 @@ mixologist:
 Ingredients
 -----------
 
-** For the spiced honey syrup: **
+**For the spiced honey syrup:**
 
 * 1 cup water
 * 1 cup honey
@@ -23,7 +23,7 @@ Ingredients
 * 1 cinnamon stick
 * 5 allspice berries
 
-** For the drink: **
+**For the drink:**
 
 * 1/4 ounce spiced honey syrup
 * 1 1/2 ounce rye whiskey
@@ -34,6 +34,18 @@ Ingredients
 Technique
 -----------
 
-To make the spiced honey syrup, combine the water, honey and sugar, in a small saucepan over low heat. Stir until the sugar is dissolved. Add the cloves, star anise, cinnamon stick, allspice and bring to a boil. Reduce the heat and simmer for 3 minutes. Let cool and then strain the syrup into a container. Make sure the syrup is at room temperature before using, after using make sure to refrigerate.
+**For the spiced honey syrup:**
 
-In an ice-filled mixing glass, combine the whiskey, honey syrup, cherry liqueur and bitters. Stir with a bar spoon until cold. Pour into a double old fashioned (with as much ice as you like). Garnish with an orange peel.
+1. To make the spiced honey syrup, combine the water, honey and sugar, in a small saucepan over low heat. 
+2. Stir until the sugar is dissolved. 
+3. Add the cloves, star anise, cinnamon stick, allspice and bring to a boil. 
+4. Reduce the heat and simmer for 3 minutes. 
+5. Let cool and then strain the syrup into a container. 
+6. Make sure the syrup is at room temperature before using, after using make sure to refrigerate.
+
+**For the drink:**
+
+1. In an ice-filled mixing glass, combine the whiskey, honey syrup, cherry liqueur and bitters. 
+2. Stir with a bar spoon until cold. 
+3. Pour into a double old fashioned (with as much ice as you like). 
+4. Garnish with an orange peel.
