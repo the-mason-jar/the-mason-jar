@@ -12,7 +12,7 @@ mixologist:
 Ingredients
 -----------
 
-* 1/4 ounce spiced honey syrup(http://www.the-mason-jar.com/extras/garnishes/spiced-honey-syrup.html)
+* 1/4 ounce [spiced honey syrup](http://www.the-mason-jar.com/extras/garnishes/spiced-honey-syrup.html)
 * 1 1/2 ounce rye whiskey
 * 1/2 ounce Luxardo maraschino liqueur
 * 2 dashes plus 2 drops Angostura bitters
