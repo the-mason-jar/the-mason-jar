@@ -17,7 +17,7 @@ Ingredients
 * A few dashes each of celery salt, cumin seeds, smoky peprika, dried and ground lemon or orange peel, hawaiian red salt
 
 
-Preparation
+Technique
 -----------
 
 1. Add all the ingredients to mixing bowl and stir well. Use with a bit of citrus to rim of a glass for micheladas, bloody marys and other spicy drinks.

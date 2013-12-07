@@ -16,7 +16,7 @@ Ingredients
 * 1/2 tsp nutmeg
 
 
-Preparation
+Technique
 -----------
 1. Add sugar and water to a pot and bring to a boil.
 2. Once the sugar has been completely incorporated into the water, remove from heat and add the apple and spices.
