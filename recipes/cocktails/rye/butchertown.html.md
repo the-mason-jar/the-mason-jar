@@ -1,9 +1,9 @@
 ---
 title: The Butchertown
 tags:
-  - Rye Whiskey
-  - Amontillado Sherry
-  - Cointreau
+  - rhy
+  - sherry
+  - cointreau
 mixologist:
   name: John Lannon
   github: https://github.com/lannon
