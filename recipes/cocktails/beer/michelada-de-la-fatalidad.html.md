@@ -1,6 +1,8 @@
 ---
 title: Michelada de la Fatalidad
 featured: true
+tags:
+  - beer
 mixologist:
   name: D. Keith Robinson
   github: https://github.com/keithrobinson
