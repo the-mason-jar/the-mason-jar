@@ -43,6 +43,7 @@ Preparation
 Notes
 -----------
 
+* It's better if you don't stir too much, if you want to get a nice mix, drink with a staw at the sweet spot where the beer meets the mix.
 * Add a dash or two of hot sauce if it's not hot enough for you.
 * Be sure and use a large glass!
 
