@@ -14,7 +14,7 @@ Ingredients
 * 1/2 cup pomegranate grenadine
 * 1/2 tbsp ancho chile powder
 * 1/2 tbsp cayenne pepper
-* 1-2 slices jalapeño
+* 1-2 slices jalape&#241;o
 
 Preparation
 -----------
