@@ -17,7 +17,7 @@ Ingredients
 * 3 large strawberries
 * 1/2 medium sized Navel or Valencia orange
 * 2 oz roasted cacao nibs
-* 7 oz Tequila Blanco (Herencia Mexicana is recommended)
+* 7 oz Tequila Blanco
 * 2 3/4 oz Grand Marnier
 * 1 dried chipotle pepper
 
@@ -40,4 +40,5 @@ Technique
 Notes
 -----------
 
+* Herencia Mexicana is recommended, but I had trouble finding that and went with El Espol&#xF3;n Blanco.
 * Original source: [The Mar&#237;a F&#233;lix from Crucial Detail](http://theportholeinfuser.tumblr.com/post/76361699483/mariafelix)
