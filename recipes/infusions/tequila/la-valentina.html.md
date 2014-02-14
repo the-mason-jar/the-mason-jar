@@ -18,7 +18,7 @@ Ingredients
 * 1/2 medium sized Navel or Valencia orange
 * 2 oz roasted cacao nibs
 * 7 oz Tequila Blanco (Herencia Mexicana is recommended)
-* 2 3/4 oz (80g) Grand Marnier
+* 2 3/4 oz Grand Marnier
 * 1 dried chipotle pepper
 
 
