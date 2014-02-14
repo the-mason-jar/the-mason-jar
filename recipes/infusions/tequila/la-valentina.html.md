@@ -26,11 +26,14 @@ Technique
 -----------
 
 * Wash fruit.
-* Quarter strawberries lenghtwise, stem on, and fan-slice them. Cut orange cross-grain into 1/8 inch thick slices.
+* Quarter strawberries lenghtwise, stem on, and fan-slice them.
+* Cut orange cross-grain into 1/8 inch thick slices. Half the slices.
 * Arrange 6 strawberry fans in Porthole, alternating skin and pulp facing the glass pane.
 * Sprinkle half of cacao nibs on strawberries.
 * Arrange a layer of orange slices.
-* Sprinkle rest of cacao nibs on oranges. Arrange remaining strawberries, lightly packing the Porthole cavity.
+* Sprinkle rest of cacao nibs on oranges.
+* Add the dried chipotle pepper. Try and place it where it won't be easily seen. (They're not pretty.)
+* Arrange remaining strawberries, lightly packing the Porthole cavity.
 * Close Porthole, tighten screw, squeeze, snug screws, and check for good seal.
 * Combine tequila and Grand Marnier.
 * Fill Porthole with combined liquids.
