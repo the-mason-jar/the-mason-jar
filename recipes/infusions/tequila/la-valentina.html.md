@@ -26,7 +26,7 @@ Technique
 -----------
 
 * Wash fruit.
-* Quarter strawberries lenghtwise, stem on, and fan-slice them. Cut orange cross-grain into 1/8” thick slices.
+* Quarter strawberries lenghtwise, stem on, and fan-slice them. Cut orange cross-grain into 1/8 inch thick slices.
 * Arrange 6 strawberry fans in Porthole, alternating skin and pulp facing the glass pane.
 * Sprinkle half of cacao nibs on strawberries.
 * Arrange a layer of orange slices.
@@ -40,4 +40,4 @@ Technique
 Notes
 -----------
 
-* Original source: [The María Félix from Crucial Detail](http://theportholeinfuser.tumblr.com/post/76361699483/mariafelix)
+* Original source: [The Mar&#237;a F&#233;lix from Crucial Detail](http://theportholeinfuser.tumblr.com/post/76361699483/mariafelix)
