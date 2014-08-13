@@ -9,7 +9,7 @@ mixologist:
   github: https://github.com/keithrobinson
 ---
 
-A slightly lighter take on the traditional Brazian Caipirinha.
+A slightly lighter take on the traditional Brazilian Caipirinha.
 
 Ingredients
 -----------
