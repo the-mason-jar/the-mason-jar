@@ -1,5 +1,6 @@
 ---
 title: The Christmas Cocktail
+featured: true
 tags:
   - bourbon
   - benedictine

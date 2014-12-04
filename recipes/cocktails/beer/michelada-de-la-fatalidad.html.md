@@ -1,6 +1,5 @@
 ---
 title: Michelada de la Fatalidad
-featured: true
 tags:
   - beer
 mixologist:
