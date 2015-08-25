@@ -15,7 +15,7 @@ Ingredients
 -----------
 
 * 2 oz Bourbon whiskey (Maker's Mark recommended)
-* 2 oz Carpano Antica sweet vermouth
+* 1 oz Carpano Antica sweet vermouth
 * Dash of Angostura bitters
 * Dash of orange bitters
 * 3 brandied cherries
