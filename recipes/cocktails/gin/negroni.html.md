@@ -23,5 +23,5 @@ Technique
 ---------
 
 1. Add the gin, aperitif, vermouth and lemon peel to a cocktail shaker with ice.
-2. Shake until blended.
+2. Stir until blended.
 3. Strain and pour into a double old fashioned glass.
