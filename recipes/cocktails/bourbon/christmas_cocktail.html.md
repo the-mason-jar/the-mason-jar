@@ -7,7 +7,7 @@ tags:
   - cointreau
 mixologist:
   name: Jordan Dodds
-  about.me: https://about.me/jordandodds
+  github: https://about.me/jordandodds
 ---
 
 A delicious and refreshing bourbon drink with the perfect balance of citrus and softness.
