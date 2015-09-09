@@ -40,7 +40,7 @@ The Pickled Mary
 -----------
 
 * Edge a large glass with salt.
-* Pour in a shot or two of vodka ([Ursula cucumber vodka](http://www.the-mason-jar.com/infusions/vodka/ursula.html) is good). Strain if needed.
+* Pour in a shot or two of vodka ([Ursula cucumber vodka](/extras/infusions/vodka/ursula.html) is good). Strain if needed.
 * Pour in the mix, fill about 2/3rds of the glass.
 * Add ice. Be sure and leave some room in the glass.
 * Garnish with a variety of pickled goods.

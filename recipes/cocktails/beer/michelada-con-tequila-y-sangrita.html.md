@@ -12,7 +12,7 @@ A nice, sweet and citrus-based Michelada.
 
 Ingredients
 -----------
-* 1-2 oz [Sangrita Tradicional](/extras/garnishes/sangrita-tradicional.html)
+* 1-2 oz [Sangrita Tradicional](/extras/mixers/sangrita-tradicional.html)
 * 1 oz tequila
 * 10-12 oz lager beer (Tecate)
 * 1 halved lime

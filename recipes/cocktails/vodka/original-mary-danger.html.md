@@ -1,9 +1,9 @@
 ---
 title: The Original Mary Danger
-tags: 
+tags:
   - vodka
   - bloody mary
-mixologist: 
+mixologist:
   name: D. Keith Robinson
   github: "https://github.com/keithrobinson"
 published: true
@@ -35,8 +35,8 @@ Mix Preparation
 The Original Mary Danger
 -----------
 
-* Edge a large glass with [volcano salt](http://www.the-mason-jar.com/extras/garnishes/volcano-salt.html).
-* Pour in a shot or two of [Morgana spice and herb vodka](http://www.the-mason-jar.com/infusions/vodka/morgana.html). Strain if needed.
+* Edge a large glass with [volcano salt](/extras/garnishes/volcano-salt.html).
+* Pour in a shot or two of [Morgana spice and herb vodka](/extras/infusions/vodka/morgana.html). Strain if needed.
 * Pour in the mix, fill about 2/3rds of the glass.
 * Add ice. Be sure and leave some room in the glass.
 * If you have it, pour a little Guinness on top.
