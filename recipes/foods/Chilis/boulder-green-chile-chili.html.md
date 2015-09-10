@@ -15,7 +15,7 @@ Ingredients
 * 4 cups roasted tomatoes (10 medium tomoatoes)
 * 2 medium oninons
 * Chili spices (see below)
-* 1 can chili beans (pinto, kidney or a mix)
+* 1-2 can kidney, pinto or a mix of chili beans (optional)
 * Olive oil
 * Masa Flour
 
