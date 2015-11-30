@@ -5,7 +5,7 @@ mixologist:
   github: https://github.com/keithrobinson
 ---
 
-I love chili. I love chiles. This is my take at combining a traditional Texas (where I live, and famous for, well, beef) style chili with a bit of Colorado (where I'm from, and famous for green chili) influence. It uses beef and a ton of delicious Hatch Valley chiles. As with anything chili, it can be remixed to your own particlar tastes, it's much more an art than it is a science.
+I love chili. I love chiles. This is my take at combining a traditional Texas (where I live, and famous for, well, beef) style chili with a bit of Colorado (where I'm from, and famous for green chili) influence. It uses beef and a ton of delicious Hatch Valley chiles. As with anything chili, it can be remixed to your own particular tastes, it's much more an art than it is a science.
 
 Ingredients
 -----------
@@ -13,7 +13,7 @@ Ingredients
 * 1/4 cup garlic (6 large garlic cloves)
 * 2 1/4 cups roasted Hatch green chiles (8 large chiles)
 * 4 cups roasted tomatoes (10 medium tomoatoes)
-* 2 medium oninons
+* 2 medium onions
 * Chili spices (see below)
 * 1-2 can kidney, pinto or a mix of chili beans (optional)
 * Olive oil
@@ -22,11 +22,11 @@ Ingredients
 Chili Spices
 -----------
 * 1/3 cup chili powder
-* 1 tbsp papriki
+* 1 tbsp paprika
 * 1 tbsp cumin
 * 1/2 tbsp onion powder (or dried onion)
 * 1/2 tbsp garlic powder (or dried garlic)
-* 1/2 tbsp oregeno
+* 1/2 tbsp oregano
 * Salt to taste
 * Cayenne pepper to taste
 
@@ -42,16 +42,14 @@ Technique
 6. Add the spice mix and 2 cups of water to the beef and mix well.
 7. Peel and slice chiles lengthwise and discard seeds (or most of them anyway.) If you need to, throw them in the freezer for a little bit to make the easier to peel. Once this is done, dice them and add them to the beef.
 8. Put the tomatoes in a blender for a bit, you don't want to liquify them, but get them nice and chopped up. Add them to the beef.
-9. Cover and simmer, stiring occasionally, for at least 30 minutes. The longer the chili simmers, the better it'll taste.
-10. About 10 mintues before you're ready to serve, add the beans.
+9. Cover and simmer, stirring occasionally, for at least 30 minutes. The longer the chili simmers, the better it'll taste.
+10. About 10 minutes before you're ready to serve, add the beans.
 11. If you want a thinner chili, add the dark beer. If not, drink it.
 12. If you want a thicker chili, mix 2 tablespoons of Masa Flour with 1/4 cup of warm water and then stir it into the chili. Repeat if needed.
-13. Add salt and cayanne to taste. This is the fun part.
+13. Add salt and cayenne to taste. This is the fun part.
 14. Serve with any of the following: grated cheese, the rest of the diced onion, some fresh tomato, corn chips and sour cream.
 
 Notes & Tips
 -----------
 * You can use canned chiles if that's easier. The flavor is a bit different, but still good. You'll want 5 of those 4oz cans.
 * I find chili a bit hard to taste when it's hot, so I'll often mix it up really good, then take a spoonful and let it cool before I taste it.
-
-
