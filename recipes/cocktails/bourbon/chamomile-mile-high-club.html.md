@@ -14,12 +14,12 @@ Ingredients
 -----------
 
 * 2 oz Russell's Reserve Bourbon
-* 1/2 oz apricot liquer
+* 1/2 oz apricot liqueur
 * 1/2 oz chamomile simple syrup
 * 3/4 oz fresh lemon juice
 * 1 dash of Angostura
-* 2 oz Lagunita's IPA
-* Taragon stalk as garnish
+* 2 oz [Lagunitas IPA](https://lagunitas.com/beers/ipa)
+* Tarragon stalk as garnish
 
 Technique
 -----------
