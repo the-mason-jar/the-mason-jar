@@ -17,7 +17,7 @@ Ingredients
 * 10 mint leaves
 * 3 slices of seedless cucumber
 * 3 oz rum
-* 2 oz DorndaCont ginger
+* 2 oz Domaine de Canton (or some other ginger liqueur)
 * 1/2 a lime, juiced
 * Club soda
 

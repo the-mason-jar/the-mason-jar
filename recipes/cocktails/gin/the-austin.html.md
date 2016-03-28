@@ -8,7 +8,7 @@ mixologist:
   github: https://github.com/keithrobinson
 ---
 
-Originally based off the Leap Year cocktail; replacing the bitterness with sweetness, The Austin is the best type of gin drink; slightly sweet and slightly crisp with a nice, warm tingle on the end.
+Based off a version of the [Pegu Club Cocktail](https://en.wikipedia.org/wiki/Pegu_Club_%28cocktail%29), The Austin is the best type of gin drink; slightly sweet and slightly crisp with a nice, warm tingle on the end.
 
 Ingredients
 -----------

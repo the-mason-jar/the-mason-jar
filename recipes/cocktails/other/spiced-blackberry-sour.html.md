@@ -18,7 +18,7 @@ Ingredients
 * 1 oz spiced rum
 * 1 oz lime juice
 * 1 egg white
-* Zest of 1 lemon
+* Zest of 1/2 lemon
 * 1/2 oz simple syrup
 * 2 dashes Angostura bitters
 
@@ -27,5 +27,6 @@ Technique
 
 1. Muddle the blackberries in a shaker
 2. Pour in the rest of the ingredients
-2. Add ice and shake vigorously
-3. Serve in a martini glass
+3. Add ice and shake vigorously
+4. Serve in a martini glass
+5. Garnish with an edible flower
